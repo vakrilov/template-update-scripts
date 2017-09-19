@@ -1,0 +1,6 @@
+https://github.com/NativeScript/template-hello-world
+https://github.com/NativeScript/template-hello-world-ts
+https://github.com/NativeScript/template-hello-world-ng
+
+
+

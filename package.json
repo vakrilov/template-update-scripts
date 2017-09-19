@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apply-changes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.0.28",
+    "nodegit": "^0.20.2"
+  },
+  "dependencies": {
+    "fs-extra": "^4.0.2",
+    "recursive-copy": "^2.0.6"
+  }
+}
